@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a data engineer developer from France, wanting to learn more about data science.
 - 🔭 Working on multiple data and backend projects using Python
-- 🌱 Learning machine learning algorithms\
+- 🌱 Learning machine learning algorithms
 
 
 ## Connect with me 📫
