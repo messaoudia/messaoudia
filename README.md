@@ -27,12 +27,14 @@ I am a data engineer developer from France, wanting to learn more about data sci
 
 ### Databases
 <img align="left" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" alt="Postgres" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 
 <br>
 
 ## Setup
 <img align="left" alt="macos" src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-999999?style=for-the-badge&logo=apple&logoColor=white" />
+<!-- <img align="left" src="https://badgen.net/badge/icon/iTerm2?icon=terminal&label"> -->
 <br>
 <br>
 
