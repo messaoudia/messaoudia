@@ -33,7 +33,7 @@ I am a data engineer developer from France, wanting to learn more about data sci
 <br>
 
 ## Setup
-<img align="left" alt="macos" src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-999999?style=for-the-badge&logo=apple&logoColor=white" />
+<img align="left" alt="macos" src="https://img.shields.io/badge/Apple-MacBook_Air_15_M2-999999?style=for-the-badge&logo=apple&logoColor=white" />
 <!-- <img align="left" src="https://badgen.net/badge/icon/iTerm2?icon=terminal&label"> -->
 <br>
 <br>
