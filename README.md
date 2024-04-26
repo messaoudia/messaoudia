@@ -62,7 +62,6 @@ I am a data engineer | data scientist (5 yr exp.) from France, wanting to learn 
   <tr>
     <td> Other </td>
     <td>
-      <a href=""><img src="https://commons.wikimedia.org/wiki/File:MacOS_logo.svg" width="40" height="40"></img></a>
       <a href=""><img src="https://github.com/cncf/landscape/blob/master/hosted_logos/vscode.svg" width="40" height="40"></img></a>
       <a href=""><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40"></img></a>
       <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"></img></a>
