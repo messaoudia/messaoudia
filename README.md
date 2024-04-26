@@ -1,36 +1,76 @@
-### Hello World 👋
-I am a data engineer | data scientist from France, wanting to learn more about data.
-- 🔭 Worked on multiple data and backend projects using Python
+# Hello World 👋 . I'm Amin Messaoudi
+I am a data engineer | data scientist (5 yr exp.) from France, wanting to learn more about data.
+- 🔭 I am currently looking for a data engineer job
+- 🧪 Worked on multiple data science and backend projects using Python
 - 🌱 Learning machine learning algorithms
-
+- 📚 Learned data engineer through a bootcamp at Le Wagon
+- 💬 Fun fact: I am fun
 
 ## Connect with me 📫
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amin-messaoudi/)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@amessaoudi)
-
+[<img align="left" alt="linked-in" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="40" height="40"/>](https://www.linkedin.com/in/amin-messaoudi/)
+[<img align="left" alt="malt" src="https://www.malt.com/bimi/malt.svg" width="40" height="40"/>](https://www.malt.fr/profile/aminmessaoudi)
+[<img align="left" alt="medium" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="40" height="40"/>](https://medium.com/@amessaoudi)
 <br>
 
 ## Coding
-### Languages
-#### Expert
-<!-- <img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
-<img align="left" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="left" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
-<br>
+<table>
+  <tr>
+    <td> Data engineer </td>
+    <td>
+      <a href=""><img src="https://github.com/apache/airflow/blob/main/docs/apache-airflow/img/logos/airflow_64x64_emoji_transparent.png" width="40" height="40"></img></a>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/dataflow.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/dataproc.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://github.com/gilbarbara/logos/blob/main/logos/dbt-icon.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/apache_beam/apache_beam-icon.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"></img></a>
+    </td>
+  </tr>
+  <tr>
+    <td> Data science </td>
+    <td>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/dataiku.svg" width="40" height="40"></img></a>
+    </td>
+  </tr>
+  <tr>
+    <td> Databases / Datastore </td>
+    <td>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"></img></a>
+   </td>
+  <tr>
+    <td> CI / CD </td>
+    <td>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"></img></a>
+   </td>
+  </tr>
+  <tr>
+    <td> Testing </td>
+    <td>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" width="40" height="40"></img></a>
+   </td>
+  </tr>
+  <tr>
+    <td> Other </td>
+    <td>
+      <a href=""><img src="https://commons.wikimedia.org/wiki/File:MacOS_logo.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://github.com/cncf/landscape/blob/master/hosted_logos/vscode.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://www.beekeeperstudio.io/static/press-kit/bk-logo-icon-lightbg.svg" width="40" height="40"></img></a>
+   </td>
+  </tr>
 
-#### Basic knowledge
-<img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-
-<br>
-
-### Databases
-<img align="left" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="Postgres" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-
-<br>
+</table>
 
 ## Setup
 <img align="left" alt="macos" src="https://img.shields.io/badge/Apple-MacBook_Air_15_M2-999999?style=for-the-badge&logo=apple&logoColor=white" />
