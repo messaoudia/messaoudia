@@ -35,6 +35,7 @@ I am a data engineer | data scientist (5 yr exp.) from France, wanting to learn 
     <td>
       <a href=""><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"></img></a>
       <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"></img></a>
+      <a href=""><img src="https://github.com/get-icon/geticon/blob/master/icons/pandas-icon.svg" width="40" height="40"></img></a>
       <a href=""><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40"></img></a>
       <a href=""><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/dataiku.svg" width="40" height="40"></img></a>
     </td>
