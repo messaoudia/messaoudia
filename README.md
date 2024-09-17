@@ -1,7 +1,7 @@
 # Hello World 👋 . I'm Amin Messaoudi
 I am a data engineer | data scientist (5 yr exp.) from France, wanting to learn more about data.
-- 🔭 I am currently looking for a data engineer job
-- 🧪 Worked on multiple data science and backend projects using Python
+- 🔭 I am currently working as a data engineer + data scientist
+- 🧪 Worked on multiple data science, engineering and backend projects using Python
 - 🌱 Learning machine learning algorithms
 - 📚 Learned data engineer through a bootcamp at Le Wagon
 - 💬 Fun fact: I am fun
