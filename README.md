@@ -42,14 +42,6 @@ I am a data engineer | data scientist (5 yr exp.) from France, wanting to learn 
     </td>
   </tr>
   <tr>
-    <td> Data engineer (other) </td>
-    <td>
-      <a href=""><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40"></img></a>
-      <a href="https://aws.amazon.com/fr/secrets-manager/"><img src="https://github.com/gilbarbara/logos/blob/main/logos/aws-secrets-manager.svg" width="40" height="40"></img></a>
-      <a href="https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html"><img src="https://github.com/gilbarbara/logos/blob/main/logos/aws-systems-manager.svg" width="40" height="40"></img></a>
-    </td>
-  </tr>
-  <tr>
     <td> Databases </td>
     <td>
       <a href=""><img src="https://github.com/gilbarbara/logos/blob/main/logos/aws-athena.svg" width="40" height="40"></img></a>
@@ -68,6 +60,14 @@ I am a data engineer | data scientist (5 yr exp.) from France, wanting to learn 
       <a href=""><img src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/cloud_storage.svg" width="40" height="40"></img></a>
       <a href="https://azure.microsoft.com/en-us/products/storage/blobs"><img src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/storage-blobs.svg" width="40" height="40"></img></a>
    </td>
+  </tr>
+  <tr>
+    <td> Data engineer (other) </td>
+    <td>
+      <a href=""><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40"></img></a>
+      <a href="https://aws.amazon.com/fr/secrets-manager/"><img src="https://github.com/gilbarbara/logos/blob/main/logos/aws-secrets-manager.svg" width="40" height="40"></img></a>
+      <a href="https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html"><img src="https://github.com/gilbarbara/logos/blob/main/logos/aws-systems-manager.svg" width="40" height="40"></img></a>
+    </td>
   </tr>
   <tr>
     <td> Data science </td>
