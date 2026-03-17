@@ -15,6 +15,13 @@ I am a data engineer | data scientist (5 yr exp.) from France, wanting to learn 
 ## Coding
 Those are my skills that I have been using during my jobs or side projects. I am a fast learner and that's why I am ready to learn more tools (cf. last line 😎)
 Legend: 1⭐️ Beginner -> 5⭐️ Expert
+
+Certified Professional Data Engineer
+
+<img src="docs/professional-data-engineer-certification.png" alt="Professional Data Engineer" width="200">
+
+[Badge](https://www.credly.com/badges/7a7abe2c-fdfd-4068-99e4-576cc2612797/public_url)
+
 <table>
   <tr>
     <td> Cloud Providers </td>
