@@ -14,18 +14,18 @@ I am a data engineer | data scientist (5 yr exp.) from France, wanting to learn 
 
 ## Coding
 Those are my skills that I have been using during my jobs or side projects. I am a fast learner and that's why I am ready to learn more tools (cf. last line 😎)
-
+Legend: 1⭐️ Beginner -> 5⭐️ Expert
 <table>
   <tr>
     <td> Cloud Providers </td>
     <td>
       <div>
-        <a href=""><img src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg" width="40" height="40"></img></a>
-        <span>⭐️⭐️⭐️</span>
+        <a href=""><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"></img></a>
+        <span>⭐️⭐️⭐️⭐️</span>
       </div>
       <div>
-        <a href=""><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"></img></a>
-        <span>⭐️⭐️</span>
+        <a href=""><img src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg" width="40" height="40"></img></a>
+        <span>⭐️⭐️⭐️</span>
       </div>
       <div>
         <a href=""><img src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-azure.svg" width="40" height="40"></img></a>
